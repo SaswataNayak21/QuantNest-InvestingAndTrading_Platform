@@ -1,1 +1,1 @@
-# QuantNest---Investing-Trading-Platform
+# QuantNest-Investing-Trading-Platform
