@@ -1,0 +1,28 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" width="609" height="100" viewBox="0 0 609 100" baseProfile="tiny">
+  <style>
+    .title { 
+      font-family: 'Segoe UI', sans-serif; 
+      font-weight: bold; 
+      fill: #333; 
+    }
+    .tagline {
+      font-family: 'Segoe UI', sans-serif; 
+      font-size: 16px;
+      fill: #666; 
+    }
+    .symbol {
+      fill: #00bcd4;
+    }
+  </style>
+
+  <!-- Icon resembling a "quantum nest" concept -->
+  <circle class="symbol" cx="40" cy="40" r="25" fill-opacity="0.1"/>
+  <path class="symbol" d="M15,40 Q40,0 65,40 Q40,80 15,40 Z" fill="#00bcd4" fill-opacity="0.6"/>
+
+  <!-- Project Name -->
+  <text class="title" x="90" y="48" font-size="42">QUANTNEST</text>
+
+  <!-- Tagline -->
+  <text class="tagline" x="90" y="72">Invest Intelligently. Grow Quantitatively.</text>
+</svg>
