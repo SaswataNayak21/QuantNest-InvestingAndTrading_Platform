@@ -26,45 +26,6 @@ QuantNest is a next-generation stock market trading and investment platform buil
 
 ---
 
-## 🔧 Getting Started
-
-### 1. Clone the Repository
-
-```bash
-git clone https://github.com/your-username/quantnest.git
-cd quantnest
-2. Setup Backend
-bash
-Copy
-Edit
-cd backend
-npm install
-Create a .env file inside /backend:
-
-ini
-Copy
-Edit
-PORT=5000
-MONGO_URL=mongodb+srv://<your-cluster-url>
-JWT_SECRET=your_jwt_secret
-Start backend server:
-
-bash
-Copy
-Edit
-npm start
-3. Setup Frontend
-bash
-Copy
-Edit
-cd ../frontend
-npm install
-npm start
-📸 Screenshots
-<img width="1900" height="865" alt="image" src="https://github.com/user-attachments/assets/54ab4286-cd4d-462a-9698-735d2103346d" />
-<img width="1899" height="858" alt="image" src="https://github.com/user-attachments/assets/ad28b34f-0776-4141-aab5-f3a17fae54d0" />
-<img width="1901" height="854" alt="image" src="https://github.com/user-attachments/assets/09b82a2b-2079-4202-a483-74e72a4c2efa" />
-<img width="1893" height="851" alt="image" src="https://github.com/user-attachments/assets/7338a7c2-6b86-420e-b2f5-6cf630bf0bf4" />
 
 
 
