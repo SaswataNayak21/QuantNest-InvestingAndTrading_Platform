@@ -25,8 +25,8 @@ QuantNest is a next-generation stock market trading and investment platform buil
 | Tools        | Git, Postman, Vercel/Render    |
 
 ---
-
-
+# 📸 Screenshots
+![image alt]()
 
 
 
