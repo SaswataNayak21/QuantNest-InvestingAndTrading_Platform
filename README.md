@@ -26,9 +26,12 @@ QuantNest is a next-generation stock market trading and investment platform buil
 
 ---
 # 📸 Screenshots
+![image alt](
+https://github.com/SaswataNayak21/QuantNest-InvestingAndTrading_Platform/blob/bf930aeec8af34dc9181f8802171eb987343ad42/Screenshot%202025-08-02%20224630.png)
 ![image alt](https://github.com/SaswataNayak21/QuantNest-InvestingAndTrading_Platform/blob/48cc858e9eeaf8601eaa451ecb0c125e2def5855/Screenshot%202025-08-02%20224900.png)
 
-
+![image alt](https://github.com/SaswataNayak21/QuantNest-InvestingAndTrading_Platform/blob/48cc858e9eeaf8601eaa451ecb0c125e2def5855/Screenshot%202025-07-19%20170352.png
+)
 
 
 
